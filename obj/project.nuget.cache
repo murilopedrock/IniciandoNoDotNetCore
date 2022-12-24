@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6qGflJ1U6gKCwy8vHyrOP99EowTtcIX2Q89qgraCjjMd6rnuAR1P3Md/daDhucRLAO2kVVWI6gmMyOAMUgh2lw==",
+  "success": true,
+  "projectFilePath": "D:\\EstudoDev\\desenvolvedor.io\\IniciandoAspNetCore\\MinhaAppVSCode\\MinhaAppVSCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Murilo\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Murilo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
